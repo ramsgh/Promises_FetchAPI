@@ -1,0 +1,15 @@
+{
+  "name": "async-javascript-small-programs",
+  "version": "1.0.0",
+  "description": "Small runnable programs covering Asynchronous JavaScript, Promises, Combinators, and Fetch API",
+  "main": "01-sync-vs-async-and-callbacks.js",
+  "scripts": {
+    "prog1": "node 01-sync-vs-async-and-callbacks.js",
+    "prog2": "node 02-promise-basics.js",
+    "prog3": "node 03-promise-combinators.js",
+    "prog4": "node 04-fetch-api-get.js"
+  },
+  "keywords": ["javascript", "async", "promises", "fetch", "callbacks"],
+  "author": "Gemini Notebook",
+  "license": "ISC"
+}
